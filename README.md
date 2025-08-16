@@ -2,6 +2,7 @@
 #java_day_2_bootcamp
 
 ## Project path
+~~~
 │-- .idea/ # IDE configuration files
 │-- src/ # Source code
 │ ├── Developer.java # Developer class
@@ -11,3 +12,4 @@
 │-- .gitignore # Git ignore file
 │-- OOPS.iml # IntelliJ IDEA module file
 │-- README.md # Project documentation
+~~~
